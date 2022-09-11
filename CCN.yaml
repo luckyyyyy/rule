@@ -1,0 +1,2 @@
+payload:
+  - DOMAIN-SUFFIX,akamaiedge.net ## 爱奇艺用了这CDN 检测来路
