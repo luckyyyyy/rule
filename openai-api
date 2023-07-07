@@ -1,0 +1,4 @@
+payload:
+  # > ChatGPT
+  - DOMAIN-SUFFIX,api.openai.com
+  - DOMAIN,openai.com
